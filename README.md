@@ -1,5 +1,5 @@
 # Machine-Learning-and-Pattern-Recognition
-Plaksha University - Course AI3011 (MLPR) Labs
+Plaksha University - Course AI3011
 
 Machine Learning and Pattern Recognition – Lab Work
 
